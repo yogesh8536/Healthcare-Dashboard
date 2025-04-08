@@ -60,3 +60,8 @@ ________________________________________
 •	Insurance Partners
 •	Operations and Planning Teams
 
+Data - https://github.com/yogesh8536/Healthcare-Dashboard/blob/main/patients.csv
+Dashboard: https://github.com/yogesh8536/Healthcare-Dashboard/blob/main/Healthcare%20Dashboard.pbix
+Image: https://github.com/yogesh8536/Healthcare-Dashboard/blob/main/Healthcare%20Dashboard%201.jpg
+       https://github.com/yogesh8536/Healthcare-Dashboard/blob/main/Healthcare%20Dashboard%202.JPG
+
