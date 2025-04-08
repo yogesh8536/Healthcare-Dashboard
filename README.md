@@ -1,13 +1,19 @@
 Healthcare Analytics Dashboard – Project Report
 ________________________________________
 1. Project Overview
+
 This Power BI dashboard provides a comprehensive analysis of healthcare billing and treatment-related costs. The goal is to enable healthcare providers and decision-makers to monitor key financial metrics, understand cost drivers, and identify optimization opportunities across various service areas.
 ________________________________________
 2. Objectives
-•	To visualize and analyze healthcare billing data.
-•	To understand how different procedures, departments, and diagnoses contribute to overall costs.
-•	To explore geographical variations in billing across cities.
-•	To assist healthcare administrators in making data-driven decisions regarding resource utilization and cost management.
+3. 
+•
+To visualize and analyze healthcare billing data.
+•
+To understand how different procedures, departments, and diagnoses contribute to overall costs.
+•
+To explore geographical variations in billing across cities.
+•
+To assist healthcare administrators in making data-driven decisions regarding resource utilization and cost management.
 ________________________________________
 3. Key Metrics & KPIs
 Metric	Value	Additional Info
